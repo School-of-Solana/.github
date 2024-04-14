@@ -68,5 +68,4 @@ As validation of your acquired skills in the Rust language and Solana blockchain
 -----
 
 # What's next?
-If you're interested in our company, don't hesitate to visit our website, [Ackee Blockchain](https://ackeeblockchain.com), or reach out to us on [Discord](https://discord.gg/z3JVuZyFnp). You can also follow us on [X(Twitter)](https://twitter.com/ackeeblockchain?lang=en) or [Warpcast](https://warpcast.com/ackee) for updates.\
-For the most recent [Solana News](https://solana.com/news) or [Solana Twitter](https://twitter.com/solana).
+If you're interested apply to[School of Solana](https://school-of-solana.beehiiv.com/), or reach out to us on [Discord](https://discord.gg/z3JVuZyFnp).
