@@ -68,4 +68,4 @@ As validation of your acquired skills in the Rust language and Solana blockchain
 -----
 
 # What's next?
-If you're interested apply to[School of Solana](https://school-of-solana.beehiiv.com/), or reach out to us on [Discord](https://discord.gg/z3JVuZyFnp).
+If you're interested apply to [School of Solana](https://school-of-solana.beehiiv.com/), or reach out to us on [Discord](https://discord.gg/z3JVuZyFnp).
