@@ -10,6 +10,8 @@
  </a>
 </p>
 
-To register visit [School of Solana](https://ackee.xyz/school-of-solana)
+To register, visit [School of Solana](https://ackee.xyz/school-of-solana)
 
-For more info about the course check [School of Solana materials](https://github.com/Ackee-Blockchain/school-of-solana)
+Missed the latest season? Sign up for the [waitlist](https://school-of-solana.ackee.xyz/) to get an email when we start next season. All lectures are live on our [YouTube](https://www.youtube.com/@ackeeblockchain/playlists). Find course materials in the [School of Solana materials](https://github.com/Ackee-Blockchain/school-of-solana) repository.
+
+PS: we also run the Solana Auditors Bootcamp, learn more [here](https://ackee.xyz/solana-auditors-bootcamp) teaching about Solana security, including how to fuzz test with [Trident](https://github.com/ackee-blockchain/trident).
